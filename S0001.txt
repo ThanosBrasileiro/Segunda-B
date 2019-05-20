@@ -1,4 +1,6 @@
 Linha1
-Linha2 - Olá da turma B.
+
+Linha2 - Olá da turma A e da turma B.
+
 Linha3
 Linha4
